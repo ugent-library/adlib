@@ -1,4 +1,4 @@
-module github.com/ugent-library/go-adlib
+module github.com/ugent-library/adlib
 
 go 1.16
 
