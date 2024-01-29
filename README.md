@@ -1,1 +1,1 @@
-# go-adlib
+# adlib
